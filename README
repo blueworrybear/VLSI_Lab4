@@ -1,0 +1,5 @@
+To run the testbench:
+1. For the basic implementation:
+	make sim
+2. For bonus:
+	make sim2
